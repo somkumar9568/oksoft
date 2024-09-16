@@ -1,0 +1,88 @@
+.promo-signup-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: #282828;
+    color: white;
+
+  }
+  
+  .promo-section {
+    max-width: 50%;
+  }
+  
+  .promo-title {
+    color: orange;
+    letter-spacing: 1.5px;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .promo-offer {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .promo-text {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .promo-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .promo-list li {
+    margin: 10px 0;
+    position: relative;
+  }
+  
+  .promo-list li:before {
+    content: "✔️";
+    color: orange;
+    position: absolute;
+    left: -20px;
+  }
+  
+  .signup-section {
+    background-color: #ff6a00;
+    padding: 40px;
+    border-radius: 10px;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .signup-section h2 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .signup-form input, 
+  .signup-form select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  .signup-form button {
+    padding: 10px;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .signup-form button:hover {
+    background-color: darkblue;
+  }
+  
