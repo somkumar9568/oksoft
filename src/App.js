@@ -23,7 +23,7 @@ function App() {
           {/* Add more routes as needed */}
         </Route>
         {/* Route for components that should always be shown */}
-        <Route path="/oksoft" element={<MainLayout />}>
+        <Route path="/" element={<MainLayout />}>
           <Route
             index
             element={
