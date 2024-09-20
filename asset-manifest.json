@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/oksoft/static/css/main.dff584a0.css",
-    "main.js": "/oksoft/static/js/main.9fbd1ff7.js",
-    "static/js/453.f3605ae1.chunk.js": "/oksoft/static/js/453.f3605ae1.chunk.js",
+    "main.css": "/oksoft/static/css/main.d194e3d1.css",
+    "main.js": "/oksoft/static/js/main.78d2d5b5.js",
+    "static/js/453.7f05ed94.chunk.js": "/oksoft/static/js/453.7f05ed94.chunk.js",
     "static/media/1.jpg": "/oksoft/static/media/1.8772bb1eab364f492dde.jpg",
     "static/media/3.jpg": "/oksoft/static/media/3.1e8b350be67fbc556dbf.jpg",
     "static/media/2.jpg": "/oksoft/static/media/2.3eac3f06e4060aa4cd14.jpg",
@@ -10,7 +10,6 @@
     "static/media/python.jpg": "/oksoft/static/media/python.fea1650e416735c00b50.jpg",
     "static/media/jquery.jpg": "/oksoft/static/media/jquery.2567262df9300b10e4dd.jpg",
     "static/media/course-6.jpg": "/oksoft/static/media/course-6.e58d6512db03b370a1b6.jpg",
-    "static/media/Fornt-end.jpg": "/oksoft/static/media/Fornt-end.c8083cf10ed3f1b9125f.jpg",
     "static/media/course-5.jpg": "/oksoft/static/media/course-5.73bdf74625863eebd6a6.jpg",
     "static/media/course-4.jpg": "/oksoft/static/media/course-4.7b3921fbb56f73d93a5f.jpg",
     "static/media/php.jpg": "/oksoft/static/media/php.8d3c52123023c3183010.jpg",
@@ -26,12 +25,12 @@
     "static/media/slick.ttf": "/oksoft/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/oksoft/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/oksoft/index.html",
-    "main.dff584a0.css.map": "/oksoft/static/css/main.dff584a0.css.map",
-    "main.9fbd1ff7.js.map": "/oksoft/static/js/main.9fbd1ff7.js.map",
-    "453.f3605ae1.chunk.js.map": "/oksoft/static/js/453.f3605ae1.chunk.js.map"
+    "main.d194e3d1.css.map": "/oksoft/static/css/main.d194e3d1.css.map",
+    "main.78d2d5b5.js.map": "/oksoft/static/js/main.78d2d5b5.js.map",
+    "453.7f05ed94.chunk.js.map": "/oksoft/static/js/453.7f05ed94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dff584a0.css",
-    "static/js/main.9fbd1ff7.js"
+    "static/css/main.d194e3d1.css",
+    "static/js/main.78d2d5b5.js"
   ]
 }
