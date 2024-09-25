@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/oksoft/static/css/main.df5390d7.css",
-    "main.js": "/oksoft/static/js/main.8eb72fed.js",
+    "main.css": "/oksoft/static/css/main.0727632d.css",
+    "main.js": "/oksoft/static/js/main.485bbf97.js",
     "static/js/453.f3605ae1.chunk.js": "/oksoft/static/js/453.f3605ae1.chunk.js",
     "static/media/1.jpg": "/oksoft/static/media/1.8772bb1eab364f492dde.jpg",
     "static/media/3.jpg": "/oksoft/static/media/3.1e8b350be67fbc556dbf.jpg",
     "static/media/2.jpg": "/oksoft/static/media/2.3eac3f06e4060aa4cd14.jpg",
+    "static/media/Ai.jpg": "/oksoft/static/media/Ai.6b5b6d8cb3edbcafa613.jpg",
     "static/media/education.jpg": "/oksoft/static/media/education.5409f1727111afdce404.jpg",
     "static/media/python.jpg": "/oksoft/static/media/python.fea1650e416735c00b50.jpg",
+    "static/media/database.jpg": "/oksoft/static/media/database.38e80cf8e3e4c3d68f30.jpg",
     "static/media/jquery.jpg": "/oksoft/static/media/jquery.2567262df9300b10e4dd.jpg",
     "static/media/course-6.jpg": "/oksoft/static/media/course-6.e58d6512db03b370a1b6.jpg",
     "static/media/backend.jpg": "/oksoft/static/media/backend.174c8a004e9eb0742b12.jpg",
@@ -27,12 +29,12 @@
     "static/media/slick.ttf": "/oksoft/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/oksoft/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/oksoft/index.html",
-    "main.df5390d7.css.map": "/oksoft/static/css/main.df5390d7.css.map",
-    "main.8eb72fed.js.map": "/oksoft/static/js/main.8eb72fed.js.map",
+    "main.0727632d.css.map": "/oksoft/static/css/main.0727632d.css.map",
+    "main.485bbf97.js.map": "/oksoft/static/js/main.485bbf97.js.map",
     "453.f3605ae1.chunk.js.map": "/oksoft/static/js/453.f3605ae1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df5390d7.css",
-    "static/js/main.8eb72fed.js"
+    "static/css/main.0727632d.css",
+    "static/js/main.485bbf97.js"
   ]
 }
