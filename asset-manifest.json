@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/oksoft/static/css/main.4c9e11e1.css",
-    "main.js": "/oksoft/static/js/main.28972112.js",
+    "main.js": "/oksoft/static/js/main.39df2cd3.js",
     "static/js/453.f3605ae1.chunk.js": "/oksoft/static/js/453.f3605ae1.chunk.js",
     "static/media/1.jpg": "/oksoft/static/media/1.8772bb1eab364f492dde.jpg",
     "static/media/3.jpg": "/oksoft/static/media/3.1e8b350be67fbc556dbf.jpg",
-    "static/media/2.jpg": "/oksoft/static/media/2.3eac3f06e4060aa4cd14.jpg",
+    "static/media/2.jpg": "/oksoft/static/media/2.2f7277f8ee6e581e159a.jpg",
     "static/media/Ai.jpg": "/oksoft/static/media/Ai.6b5b6d8cb3edbcafa613.jpg",
     "static/media/education.jpg": "/oksoft/static/media/education.5409f1727111afdce404.jpg",
     "static/media/python.jpg": "/oksoft/static/media/python.fea1650e416735c00b50.jpg",
@@ -30,11 +30,11 @@
     "static/media/slick.woff": "/oksoft/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/oksoft/index.html",
     "main.4c9e11e1.css.map": "/oksoft/static/css/main.4c9e11e1.css.map",
-    "main.28972112.js.map": "/oksoft/static/js/main.28972112.js.map",
+    "main.39df2cd3.js.map": "/oksoft/static/js/main.39df2cd3.js.map",
     "453.f3605ae1.chunk.js.map": "/oksoft/static/js/453.f3605ae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c9e11e1.css",
-    "static/js/main.28972112.js"
+    "static/js/main.39df2cd3.js"
   ]
 }
